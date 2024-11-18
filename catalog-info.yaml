@@ -4,7 +4,7 @@ metadata:
   name: MyTestComponent
   annotations:
     github.com/project-slug: 'MYSTAKE-ENG/TestComponent'
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:.
 spec:
   lifecycle: experimental
   type: service
